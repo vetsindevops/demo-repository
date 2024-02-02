@@ -7,6 +7,19 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
-# Learning GitHub Markdown is fun! You can start with a heading
-## Move to a sub heading
+## Learning GitHub Markdown is fun! 
+### Move to an even smaller sub heading
+### Insert an imperitive command and a code block below after creating a L3 sub heading:
+
+***
+
+  - Run the below command in your terminal of choice
+
+```
+let y = 42;
+console.log(x);
+```
+
+
+
 
