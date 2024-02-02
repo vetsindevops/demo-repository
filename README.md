@@ -17,17 +17,13 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 ```
 git clone https://github.com/vetsindevops/demo-repository.git
 ```
-  - Now lets create a file with some code to practice more markdown
-  - Run the following command and copy the code below the command into the file
+  - Run the below file to create a code file
 
 ```
-touch hello-world.js
+echo "let y = 42; console.log(x);" >> hello.js
 ```
 
-```
-let y = 42;
-console.log(x);
-```
+
 
 #### Learnd how to inset a website 
 
