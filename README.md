@@ -15,6 +15,16 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
   - Run the below command in your terminal of choice
 
 ```
+git clone https://github.com/vetsindevops/demo-repository.git
+```
+  - Now lets create a file with some code to practice more markdown
+  - Run the following command and copy the code below the command into the file
+
+```
+touch hello-world.js
+```
+
+```
 let y = 42;
 console.log(x);
 ```
