@@ -21,7 +21,7 @@ console.log(x);
 
 #### Learnd how to inset a website 
 
-[Website] (https://www.vetsindevops.com/ "VetsinDevOps.com" )
+[Empowering Veteran voices](https://www.vetsindevops.com/)
 
 
 
