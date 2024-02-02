@@ -8,7 +8,6 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
 ## Learning GitHub Markdown is fun! 
-### Move to an even smaller sub heading
 ### Insert an imperitive command and a code block below after creating a L3 sub heading:
 
 ***
@@ -19,6 +18,10 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 let y = 42;
 console.log(x);
 ```
+
+#### Learnd how to inset a website 
+
+[Website] (https://www.vetsindevops.com/ "VetsinDevOps.com")
 
 
 
